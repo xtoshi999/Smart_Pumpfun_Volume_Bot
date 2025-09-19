@@ -1,6 +1,7 @@
 # 🚀 Xtoshi Pumpfun Volume Bot
 
-A production-ready Pump.fun volume bot for Solana with a secure Telegram control panel. It manages a fleet of sub-wallets, builds and extends an Address Lookup Table (LUT) for compact v0 transactions, and executes randomized buy/sell cycles to generate on-chain volume. Includes safeguards, rate limits, and operational controls.
+Welcome to the Pumpfun VolumeX Bot!
+This bot helps increase the volume of SPL tokens on Pumpfun by distributing SOL across multiple wallets and performing buy and sell transactions using those wallets continuously on the platform.
 
 
 ## ✨ Features
@@ -154,3 +155,4 @@ This software interacts with decentralized markets and carries inherent financia
 ## 📬 Contact
 
 - Telegram: [@xtoshi999](https://t.me/xtoshi999)
+### 🌹 You're always welcome! 🌹
